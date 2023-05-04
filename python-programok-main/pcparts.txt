@@ -1,0 +1,10 @@
+RYZEN 3 3200G#kompatibilis#38000
+RX 570 8GB#kompatibilis#35000
+RTX 4090 24GB#kompatibilis#800000
+Pentium S5000#nemkompatibilis#35000
+DEEPCOOL GAMMAX#kompatibilis#33001
+Inter Core i7-6800K#nemkompatibilis#165000
+Gigabyte A520M K#kompatibilis#26000
+TOSHIBA ENTERPRISE 2TB#kompatibilis#11000
+INTER-TECH#kompatibilis#16103 
+SSD SATA Crucial 240GB#kompatibilis#8000
