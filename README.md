@@ -1,2 +1,2 @@
 # python-programo
-# pC parts
+# PC parts
