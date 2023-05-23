@@ -1,2 +1,2 @@
-# python-programo
+kobra-programok
 # PC parts
